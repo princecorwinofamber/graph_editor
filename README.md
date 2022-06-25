@@ -1,4 +1,4 @@
-# graph_editor
+# User manual
 A 3D editor for directional graphs
 
 
@@ -17,3 +17,10 @@ If a green sphere (graph vertex) is clicked, it would be selected (a selected ob
 
 
 An object that is selected can be deleted by pressing DEL key or deselected by pressing ESC key.
+
+
+Pressing O key would decrease camera movement speed and pressing P key would increase camera movement speed.
+
+
+# Example
+An example of using this program can be found in the file called "sample.mkv" located in this repository.
